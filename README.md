@@ -1,78 +1,78 @@
-Лабораторна робота №3
+Laboratory Work №3
 
-Дисципліна: Об’єктно-орієнтоване програмування
-Тема: Одновимірні масиви та матриці
-Студент: Вівчар Вадим Вікторович, група ALK-43
+Course: Object-Oriented Programming
+Topic: One-dimensional arrays and matrices
+Student: Vivchar Vadym, group ALK-43
 
-Мета роботи
+Purpose of the work
 
-Ознайомитися з алгоритмами обробки масивів та матриць.
+Learn algorithms for processing arrays and matrices.
 
-Навчитися будувати блок-схеми та програмувати рішення задач.
+Practice designing block diagrams and writing programs.
 
-Закріпити навички роботи з IDE Dev-C++.
+Improve programming skills in IDE Dev-C++.
 
-Завдання
-Завдання 1 (варіант 20)
+Tasks
+Task 1 (variant 20)
 
-Визначити мінімальний елемент масиву та номер цього елемента.
+Find the minimum element of the array and its index.
 
-Алгоритм:
+Algorithm:
 
-Ввести кількість елементів та сам масив.
+Input the number of elements and the array itself.
 
-Пройтися по елементах і знайти найменший.
+Traverse all elements and find the smallest value.
 
-Вивести значення та його індекс.
+Print the minimum value and its index.
 
-Завдання 2 (варіант 10)
+Task 2 (variant 10)
 
-Координати n векторів задані матрицею A(m,n) (m ≤ 5, n ≤ 6).
-Обчислити довжини цих векторів, занести їх в одновимірний масив.
-Серед довжин знайти максимальну та її номер.
+The coordinates of n vectors are given by a matrix A(m,n) (m ≤ 5, n ≤ 6).
+Calculate the lengths of these vectors and store them in a one-dimensional array.
+Find the maximum length and its index.
 
-Алгоритм:
+Algorithm:
 
-Ввести розміри матриці (m,n) та її елементи.
+Input the dimensions of the matrix (m, n) and its elements.
 
-Для кожного стовпчика обчислити довжину вектора:
+For each column, calculate the vector length:
 L = sqrt(a1² + a2² + ... + am²)
 
-Зберегти довжини у масив.
+Save the lengths into an array.
 
-Знайти найбільшу довжину і її номер.
+Find the maximum length and its index.
 
-Контрольні запитання
+Control questions
 
-Як оголошується масив?
-Відповідь: тип ім’я[розмір]; (наприклад: int a[10];).
+How is an array declared?
+Answer: type name[size]; (example: int a[10];).
 
-Які можливі типи масивів?
-Відповідь: будь-які – цілі, дійсні, char, bool, структури, класи, вказівники; одновимірні та багатовимірні.
+What types of arrays are possible?
+Answer: Any types – integers, floating-point, char, bool, structures, classes, pointers; one-dimensional and multidimensional.
 
-Що буде, якщо при ініціалізації вказати менше елементів?
-Відповідь: задані елементи запишуться, решта обнуляться (для POD-типів).
+What happens if fewer elements are specified during initialization?
+Answer: Specified values are stored, the rest are filled with zeros (for basic types).
 
-Способи доступу до елемента масиву?
-Відповідь: за індексом a[i]; через вказівник *(p+i).
+How to access an array element?
+Answer: By index a[i]; or through a pointer *(p+i).
 
-Як скопіювати масив?
-Відповідь: через цикл, std::copy(), або оператор = для std::vector.
+How to copy one array into another?
+Answer: With a loop, std::copy(), or assignment operator for std::vector.
 
-Як описати масив вказівників?
-Відповідь: тип *ім’я[розмір]; (наприклад: int *p[5];).
+How to describe an array of pointers?
+Answer: type *name[size]; (example: int *p[5];).
 
-Для чого здійснюється розіменування?
-Відповідь: щоб отримати значення за адресою, на яку вказує вказівник (*p).
+What is dereferencing for?
+Answer: To get the value stored at the address a pointer refers to (*p).
 
-Як здійснюється ввід-вивід масивів?
-Відповідь: через цикл з cin >> a[i]; / cout << a[i];, або з використанням ітераторів.
+How to input and output arrays?
+Answer: With a loop using cin >> a[i]; / cout << a[i];, or with iterators.
 
-Назвіть відомі специфікатори формату (C++ iostream).
-Відповідь: fixed, scientific, setprecision, setw, setfill, left, right, hex, oct, dec, showpos.
+What are the known format specifiers (C++ iostream)?
+Answer: fixed, scientific, setprecision, setw, setfill, left, right, hex, oct, dec, showpos.
 
-Використане середовище
+Used environment
 
-Обладнання: ПК
+Hardware: PC
 
-Програмне забезпечення: IDE Dev-C++
+Software: IDE Dev-C++
