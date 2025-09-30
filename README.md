@@ -9,14 +9,14 @@
 ## Task 1  
 Code: [Task1/main.cpp](./Task1/main.cpp)  
 Result:  
-![Task 1 result](./Task1/22.jpg)  
+![Task 1 result](./Task1/)  
 
 
 
 ## Task 2  
 Code: [Task2/main.cpp](./Task2/main.cpp)  
 Result:  
-![Task 2 result](./Task2/screenshot.png)  
+![Task 2 result](./Task2/22.jpg)  
 
 
 
