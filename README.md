@@ -14,7 +14,7 @@ Result: [Task 1 screenshot](./Task1/33.jpg)
 
 Task 2  
 Code: [Task2/main.cpp](./Task2/main.cpp)  
-Result: [Task 2 screenshot](./Task2/s22.jpg)  
+Result: [Task 2 screenshot](./Task2/22.jpg)  
 
 ---
 
