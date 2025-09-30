@@ -1,48 +1,22 @@
 Laboratory Work №3
 
 Course: Object-Oriented Programming
-
 Topic: One-dimensional arrays and matrices
-
 Student: Vivchar Vadym, group ALK-43
 
-Purpose of the work
+Task 1
 
-Learn algorithms for processing arrays and matrices.
+Code: Задача1/main.cpp
 
-Practice designing block diagrams and writing programs.
+Result:
 
-Improve programming skills in IDE Dev-C++.
 
-Tasks
-Task 1 (variant 20)
+Task 2
 
-Find the minimum element of the array and its index.
+Code: Задача2/main.cpp
 
-Algorithm:
+Result:
 
-Input the number of elements and the array itself.
-
-Traverse all elements and find the smallest value.
-
-Print the minimum value and its index.
-
-Task 2 (variant 10)
-
-The coordinates of n vectors are given by a matrix A(m,n) (m ≤ 5, n ≤ 6).
-Calculate the lengths of these vectors and store them in a one-dimensional array.
-Find the maximum length and its index.
-
-Algorithm:
-
-Input the dimensions of the matrix (m, n) and its elements.
-
-For each column, calculate the vector length:
-L = sqrt(a1² + a2² + ... + am²)
-
-Save the lengths into an array.
-
-Find the maximum length and its index.
 
 Control questions
 
@@ -72,9 +46,3 @@ Answer: With a loop using cin >> a[i]; / cout << a[i];, or with iterators.
 
 What are the known format specifiers (C++ iostream)?
 Answer: fixed, scientific, setprecision, setw, setfill, left, right, hex, oct, dec, showpos.
-
-Used environment
-
-Hardware: PC
-
-Software: IDE Dev-C++
