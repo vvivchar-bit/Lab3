@@ -1,7 +1,9 @@
 Laboratory Work №3
 
 Course: Object-Oriented Programming
+
 Topic: One-dimensional arrays and matrices
+
 Student: Vivchar Vadym, group ALK-43
 
 Purpose of the work
