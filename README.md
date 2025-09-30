@@ -8,7 +8,7 @@ Student: Vivchar Vadym, group ALK-43
 
 Task 1  
 Code: [Task1/main.cpp](./Task1/main.cpp)  
-Result: [Task 1 screenshot](./Task1/screenshot.png)  
+Result: [Task 1 screenshot](./Task1/33.jpg)  
 
 ---
 
