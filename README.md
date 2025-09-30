@@ -3,15 +3,19 @@ Laboratory Work №3
 Course: Object-Oriented Programming
 Topic: One-dimensional arrays and matrices
 Student: Vivchar Vadym, group ALK-43
- Task 1
+  Task 1  
 Code: [Task1/main.cpp](./Task1/main.cpp)  
 Result:  
-![Screenshot](./Task1/screenshot.png)
+![Task 1 result](./Task1/screenshot.png)  
 
- Task 2
+---
+
+ Task 2  
 Code: [Task2/main.cpp](./Task2/main.cpp)  
 Result:  
-![Screenshot](./Task2/screenshot.png)
+![Task 2 result](./Task2/screenshot.png)  
+
+
 
 
 
