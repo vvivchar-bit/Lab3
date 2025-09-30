@@ -4,18 +4,17 @@ Course: Object-Oriented Programming
 Topic: One-dimensional arrays and matrices
 Student: Vivchar Vadym, group ALK-43
 
-Task 1
-
-Code: Задача1/main.cpp
-
-Result:
+Task  
+Код: [Задача1/main.cpp](./Задача1/main.cpp)  
+Результат:  
+![Скриншот 1](./Задача1/screenshot.png)  
 
 
 Task 2
 
-Code: Задача2/main.cpp
-
-Result:
+Код: [Задача2/main.cpp](./Задача2/main.cpp)  
+Результат:  
+![Скриншот 2](./Задача2/screenshot.png) 
 
 
 Control questions
