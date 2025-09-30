@@ -9,7 +9,7 @@
 ## Task 1  
 Code: [Task1/main.cpp](./Task1/main.cpp)  
 Result:  
-![Task 1 result](./Task1/)  
+![Task 1 result](./Task1/33.jpg)  
 
 
 
